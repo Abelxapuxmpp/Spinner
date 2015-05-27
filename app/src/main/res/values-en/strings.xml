@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Spinner Example</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="cerrar">EXIT</string>
+    <string name="Nombre">ABEL PIOQUINTO UBIAS</string>
+    <string name="No_control">11930097</string>
+    <string name="Carrera">ING. INFORMÁTICA</string>
+
+    <string-array name="operaciones">
+        <item>(CHOOSE A OPERATIOON)</item>
+        <item>SUMS</item>
+        <item>DEDUCT</item>
+        <item>MULTIPLICATION</item>
+        <item>DIVISIÓN</item>
+    </string-array>
+
+    <string-array name="conversiones">
+        <item>(CHOOSE A CONVERTION)</item>
+        <item>°C TO °F</item>
+        <item>°F TO °C</item>
+    </string-array>
+
+    <string name="title_activity_suma">SUMS</string>
+    <string name="title_activity_resta">DEDUCT</string>
+    <string name="title_activity_multiplicacion">MULTIPLICATION</string>
+    <string name="title_activity_division">DIVISIÓN</string>
+
+    <string name="Valor1">VALUE 1</string>
+    <string name="Valor2">VALUE 2</string>
+    <string name="Resultado">RESULT</string>
+    <string name="Boton3">CALCULATE</string>
+
+    <string name="title_activity_caf">°C TO °F</string>
+    <string name="title_activity_fac">°F TO °C</string>
+    <string name="gradosc">ENTER °C</string>
+    <string name="gradosf">ENTER °F</string>
+
+</resources>
